@@ -1,6 +1,6 @@
 package so_nguyen_to;
 
-public class so_nguyen_to {
+public class so_nguyen_to aa{
 	static String result;
 	
 	 static check M = new check();
